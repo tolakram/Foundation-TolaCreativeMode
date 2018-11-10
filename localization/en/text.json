@@ -1,0 +1,12 @@
+{
+	"BALANCING_NAMES" : {
+		"TOLAKRAM_BALANCING":"Tolakram Creative Mode"
+	},
+	
+  "EVENTS": {
+  "TOLAKRAM_EVENT_TITLE": "Grant Influence",
+  "TOLAKRAM_EVENT_DESC": "Tolakram's special event to grant influence for game demonstration.",
+  "TOLAKRAM_EVENT_ACCEPT_QUEST": "Gimmie!"
+	}
+
+}
