@@ -558,7 +558,7 @@ myMod:register({
 			UnitPrice = { Resource = "GOLD", Quantity = 1 }
 		},
 		{
-			ResourceMaxAmount = { Resource = "TOOLS", Quantity = 50 },
+			ResourceMaxAmount = { Resource = "TOOL", Quantity = 50 },
 			UnitPrice = { Resource = "GOLD", Quantity = 1 }
 		}
   },
@@ -610,4 +610,5 @@ myMod:register({
 		}
 	},
 	TradingVillageList = "TOLAKRAM_TRADING_VILLAGE_LIST", -- VILLAGE_LIST_DEFAULT
+	InitialFamilyCount = 8,
 })
